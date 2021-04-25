@@ -32,7 +32,7 @@ Out-String [-Stream] [-Width <Int32>] [-InputObject <PSObject>] [<CommonParamete
 
 The `Out-String` cmdlet converts input objects into strings. By default, `Out-String`
 accumulates the strings and returns them as a single string, but you can use the **Stream**
-parameter to direct `Out-String` to return one line at a time or create and array of strings. This
+parameter to direct `Out-String` to return one line at a time or create an array of strings. This
 cmdlet lets you search and manipulate string output as you would in traditional shells when object
 manipulation is less convenient.
 
